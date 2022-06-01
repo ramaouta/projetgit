@@ -9,3 +9,4 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 str = 'helloworld'
+str2 = 'bonjour Monde'
