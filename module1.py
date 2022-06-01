@@ -10,3 +10,4 @@
 #-------------------------------------------------------------------------------
 str = 'helloworld'
 str2 = 'bonjour Monde'
+str3 = "je suis un inconnu"
